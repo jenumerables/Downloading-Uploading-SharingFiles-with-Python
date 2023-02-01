@@ -1,4 +1,4 @@
-# Sample FIle Upload Form
+# Sample File Upload Form
 ## https://cgi-lib.berkeley.edu/ex/fup.html
 import requests
 
